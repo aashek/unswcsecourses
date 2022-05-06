@@ -1,0 +1,190 @@
+{
+  "COMP1511": {
+    "name": "Programming Fundamentals",
+    "num": 862
+  },
+  "ENGG1811": {
+    "name": "Computing for Engineers",
+    "num": 677
+  },
+  "COMP3411/COMP9414/COMP9814": {
+    "name": "Artificial Intelligence",
+    "num": 561
+  },
+  "COMP2911": {
+    "name": "Engineering Design in Computing",
+    "num": 543
+  },
+  "COMP3121/COMP3821/COMP9101/COMP9801": {
+    "name": "Algorithms and Programming Techniques",
+    "num": 387
+  },
+  "COMP1911": {
+    "name": "Computing 1A",
+    "num": 369
+  },
+  "COMP2121": {
+    "name": "Microprocessors and Interfacing",
+    "num": 340
+  },
+  "COMP9021": {
+    "name": "Principles of Programming",
+    "num": 315
+  },
+  "COMP9311": {
+    "name": "Database Systems",
+    "num": 269
+  },
+  "COMP9417": {
+    "name": "Machine Learning and Data Mining",
+    "num": 265
+  },
+  "COMP3231/COMP3891/COMP9201/COMP9283": {
+    "name": "Operating Systems",
+    "num": 251
+  },
+  "COMP9020": {
+    "name": "Foundations of Computer Science",
+    "num": 251
+  },
+  "COMP3311": {
+    "name": "Database Systems",
+    "num": 231
+  },
+  "COMP3331/COMP9331": {
+    "name": "Computer Networks and Applications",
+    "num": 213
+  },
+  "COMP1927": {
+    "name": "Computing 2",
+    "num": 189
+  },
+  "COMP9318": {
+    "name": "Data Warehousing and Data Mining",
+    "num": 182
+  },
+  "COMP9334": {
+    "name": "Systems Capacity Planning",
+    "num": 179
+  },
+  "COMP9902/COMP9901": {
+    "name": "Research Thesis",
+    "num": 174
+  },
+  "COMP6441/COMP6841": {
+    "name": "Security Engineering and Cyber Security",
+    "num": 172
+  },
+  "COMP9024": {
+    "name": "Data Structures and Algorithms",
+    "num": 146
+  },
+  "COMP3141": {
+    "name": "Software System Design and Implementation",
+    "num": 140
+  },
+  "COMP1000": {
+    "name": "Web, Spreadsheets and Databases",
+    "num": 128
+  },
+  "COMP9319": {
+    "name": "Web Data Compression and Search",
+    "num": 108
+  },
+  "COMP2111": {
+    "name": "System Modelling and Design",
+    "num": 99
+  },
+  "SENG2011": {
+    "name": "Workshop on Reasoning about Programs",
+    "num": 92
+  },
+  "COMP6443/COMP6843": {
+    "name": "Web Application Security and Testing",
+    "num": 76
+  },
+  "COMP9321": {
+    "name": "Data Services Engineering",
+    "num": 76
+  },
+  "COMP4930/BIOM5920/BIOM5950/BIOM5960/BIOM5970/SENG4910": {
+    "name": "Thesis Part A",
+    "num": 67
+  },
+  "SENG3011": {
+    "name": "Software Engineering Workshop 3",
+    "num": 65
+  },
+  "COMP9243": {
+    "name": "Distributed Systems",
+    "num": 58
+  },
+  "COMP4337/COMP9337": {
+    "name": "Securing Wireless Networks",
+    "num": 54
+  },
+  "COMP9313": {
+    "name": "Big Data Management",
+    "num": 45
+  },
+  "COMP3131/COMP9102": {
+    "name": "Programming Languages and Compilers",
+    "num": 42
+  },
+  "BINF3010/BINF9010": {
+    "name": "Bioinformatics Methods and Applications",
+    "num": 36
+  },
+  "COMP3211/COMP9211": {
+    "name": "Computer Architecture",
+    "num": 34
+  },
+  "COMP4601": {
+    "name": "Design Project B",
+    "num": 28
+  },
+  "COMP9322": {
+    "name": "Software Service Design and Engineering",
+    "num": 25
+  },
+  "COMP4128": {
+    "name": "Programming Challenges",
+    "num": 22
+  },
+  "COMP3153/COMP9153": {
+    "name": "Algorithmic Verification",
+    "num": 17
+  },
+  "COMP4141": {
+    "name": "Theory of Computation",
+    "num": 17
+  },
+  "COMP4931/BIOM5921/BIOM5951/BIOM5961/BIOM5971/SENG4911": {
+    "name": "Thesis Part B",
+    "num": 12
+  },
+  "COMP9596/COMP9912/COMP9945": {
+    "name": "Research Project",
+    "num": 3
+  },
+  "COMP3901": {
+    "name": "Special Project A",
+    "num": 2
+  },
+  "COMP3902": {
+    "name": "Special Project B",
+    "num": 0
+  },
+  "COMP4906": {
+    "name": "Industrial Training 3",
+    "num": 0
+  },
+  "ENGG1000": {
+    "name": "Introduction to Engineering Design and Innovation",
+    "num": 0
+  },
+  "SENG4906": {
+    "name": "Industrial Training 3",
+    "num": 0
+  }
+}

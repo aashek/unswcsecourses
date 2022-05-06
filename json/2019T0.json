@@ -1,0 +1,26 @@
+{
+  "COMP2521": {
+    "name": "Data Structures and Algorithms",
+    "num": 154
+  },
+  "COMP3411/COMP9414": {
+    "name": "Artificial Intelligence",
+    "num": 108
+  },
+  "COMP9024": {
+    "name": "Data Structures and Algorithms",
+    "num": 104
+  },
+  "COMP3331/COMP9331": {
+    "name": "Computer Networks and Applications",
+    "num": 85
+  },
+  "COMP3511/COMP9511": {
+    "name": "Human Computer Interaction",
+    "num": 70
+  },
+  "COMP6451": {
+    "name": "Cryptocurrency and Distributed Ledger Technologies",
+    "num": 11
+  }
+}

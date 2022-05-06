@@ -1,0 +1,162 @@
+{
+  "ENGG1000": {
+    "name": "Introduction to Engineering Design and Innovation",
+    "num": 1130
+  },
+  "COMP3121/COMP9101": {
+    "name": "Algorithms and Programming Techniques",
+    "num": 816
+  },
+  "COMP3411/COMP9414": {
+    "name": "Artificial Intelligence",
+    "num": 793
+  },
+  "COMP1511": {
+    "name": "Programming Fundamentals",
+    "num": 693
+  },
+  "COMP9021": {
+    "name": "Principles of Programming",
+    "num": 563
+  },
+  "COMP1531": {
+    "name": "Software Engineering Fundamentals",
+    "num": 535
+  },
+  "COMP3231/COMP3891/COMP9201/COMP9283": {
+    "name": "Operating Systems",
+    "num": 429
+  },
+  "COMP3311": {
+    "name": "Database Systems",
+    "num": 415
+  },
+  "COMP2521": {
+    "name": "Data Structures and Algorithms",
+    "num": 408
+  },
+  "COMP3331/COMP9331": {
+    "name": "Computer Networks and Applications",
+    "num": 375
+  },
+  "COMP9318": {
+    "name": "Data Warehousing and Data Mining",
+    "num": 361
+  },
+  "COMP9311": {
+    "name": "Database Systems",
+    "num": 349
+  },
+  "ENGG1811": {
+    "name": "Computing for Engineers",
+    "num": 308
+  },
+  "COMP9020": {
+    "name": "Foundations of Computer Science",
+    "num": 284
+  },
+  "COMP9334": {
+    "name": "Systems Capacity Planning",
+    "num": 245
+  },
+  "COMP9321": {
+    "name": "Data Services Engineering",
+    "num": 227
+  },
+  "COMP1911": {
+    "name": "Computing 1A",
+    "num": 220
+  },
+  "COMP9024": {
+    "name": "Data Structures and Algorithms",
+    "num": 219
+  },
+  "COMP2111": {
+    "name": "System Modelling and Design",
+    "num": 192
+  },
+  "COMP2121": {
+    "name": "Microprocessors and Interfacing",
+    "num": 184
+  },
+  "COMP3900/COMP9900": {
+    "name": "Computer Science Project",
+    "num": 175
+  },
+  "SENG2021": {
+    "name": "Requirements and Design Workshop",
+    "num": 140
+  },
+  "COMP4951/BIOM5950/COMP4952/COMP4953": {
+    "name": "Research Thesis A/B/C",
+    "num": 88
+  },
+  "SENG3011": {
+    "name": "Software Engineering Workshop 3",
+    "num": 86
+  },
+  "COMP4337/COMP9337": {
+    "name": "Securing Wireless Networks",
+    "num": 85
+  },
+  "COMP6452": {
+    "name": "Software Architecture for Blockchain Application",
+    "num": 83
+  },
+  "COMP6443/COMP6843": {
+    "name": "Web Application Security and Testing",
+    "num": 78
+  },
+  "COMP3131/COMP9102": {
+    "name": "Programming Languages and Compilers",
+    "num": 68
+  },
+  "COMP4141": {
+    "name": "Theory of Computation",
+    "num": 67
+  },
+  "COMP9322": {
+    "name": "Software Service Design and Engineering",
+    "num": 48
+  },
+  "COMP3211/COMP9211": {
+    "name": "Computer Architecture",
+    "num": 45
+  },
+  "COMP6324": {
+    "name": "Internet of Things Services Engineering",
+    "num": 36
+  },
+  "COMP4931/BIOM5951/COMP4941": {
+    "name": "Thesis Part B",
+    "num": 32
+  },
+  "COMP4601": {
+    "name": "Design Project B",
+    "num": 30
+  },
+  "COMP3153/COMP9153": {
+    "name": "Algorithmic Verification",
+    "num": 19
+  },
+  "COMP4961/COMP4962/COMP4963": {
+    "name": "Computer Science Thesis A/B/C",
+    "num": 13
+  },
+  "COMP3901": {
+    "name": "Special Project A",
+    "num": 6
+  },
+  "COMP9596/COMP9945": {
+    "name": "Research Project",
+    "num": 5
+  },
+  "COMP3902": {
+    "name": "Special Project B",
+    "num": 0
+  },
+  "HSCH1917": {
+    "name": "High School Computing",
+    "num": 0
+  }
+}

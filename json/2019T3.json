@@ -1,0 +1,194 @@
+{
+  "COMP9444": {
+    "name": "Neural Networks",
+    "num": 690
+  },
+  "COMP1511": {
+    "name": "Programming Fundamentals",
+    "num": 633
+  },
+  "COMP1521": {
+    "name": "Computer Systems Fundamentals",
+    "num": 618
+  },
+  "COMP1531": {
+    "name": "Software Engineering Fundamentals",
+    "num": 615
+  },
+  "COMP9021": {
+    "name": "Principles of Programming",
+    "num": 527
+  },
+  "COMP3311": {
+    "name": "Database Systems",
+    "num": 524
+  },
+  "COMP9020": {
+    "name": "Foundations of Computer Science",
+    "num": 468
+  },
+  "COMP2521": {
+    "name": "Data Structures and Algorithms",
+    "num": 467
+  },
+  "COMP2511": {
+    "name": "Object-oriented Design and Programming",
+    "num": 450
+  },
+  "COMP4920/SENG4920": {
+    "name": "Management and Ethics",
+    "num": 446
+  },
+  "COMP3331/COMP9331": {
+    "name": "Computer Networks and Applications",
+    "num": 445
+  },
+  "COMP9311": {
+    "name": "Database Systems",
+    "num": 431
+  },
+  "ENGG1811": {
+    "name": "Computing for Engineers",
+    "num": 368
+  },
+  "COMP3900/COMP9900": {
+    "name": "Computer Science Project",
+    "num": 365
+  },
+  "GSOE9210": {
+    "name": "Engineering Decisions",
+    "num": 362
+  },
+  "COMP9313": {
+    "name": "Big Data Management",
+    "num": 287
+  },
+  "COMP3511/COMP9511": {
+    "name": "Human Computer Interaction",
+    "num": 253
+  },
+  "COMP6714": {
+    "name": "Information Retrieval and Web Search",
+    "num": 246
+  },
+  "COMP9417": {
+    "name": "Machine Learning and Data Mining",
+    "num": 240
+  },
+  "COMP4418": {
+    "name": "Knowledge Representation",
+    "num": 220
+  },
+  "COMP9321": {
+    "name": "Data Services Engineering",
+    "num": 168
+  },
+  "SENG2011": {
+    "name": "Workshop on Reasoning about Programs",
+    "num": 144
+  },
+  "COMP9517": {
+    "name": "Computer Vision",
+    "num": 130
+  },
+  "COMP3161/COMP9164": {
+    "name": "Concepts of Programming Languages",
+    "num": 126
+  },
+  "COMP9024": {
+    "name": "Data Structures and Algorithms",
+    "num": 111
+  },
+  "COMP9418": {
+    "name": "Advanced Machine Learning",
+    "num": 111
+  },
+  "GSOE9220": {
+    "name": "Launching a Startup",
+    "num": 110
+  },
+  "COMP4951/COMP4952/COMP4953": {
+    "name": "Research Thesis A/B/C",
+    "num": 105
+  },
+  "COMP3222/COMP9222": {
+    "name": "Digital Circuits and Systems",
+    "num": 84
+  },
+  "COMP9323": {
+    "name": "e-Enterprise Project",
+    "num": 82
+  },
+  "COMP9243": {
+    "name": "Distributed Systems",
+    "num": 78
+  },
+  "COMP4121": {
+    "name": "Advanced and Parallel Algorithms",
+    "num": 75
+  },
+  "BINF2010": {
+    "name": "Introduction to Bioinformatics",
+    "num": 70
+  },
+  "COMP6445/COMP6845": {
+    "name": "Digital Forensics",
+    "num": 69
+  },
+  "COMP9032": {
+    "name": "Microprocessors and Interfacing",
+    "num": 67
+  },
+  "COMP6733": {
+    "name": "Internet of Things Experimental Design Studio",
+    "num": 62
+  },
+  "COMP4128": {
+    "name": "Programming Challenges",
+    "num": 56
+  },
+  "COMP3601": {
+    "name": "Design Project A",
+    "num": 34
+  },
+  "COMP3431/COMP9434": {
+    "name": "Robotic Software Architecture",
+    "num": 30
+  },
+  "BINF6112": {
+    "name": "Computational Biology Engineering Design Workshop",
+    "num": 17
+  },
+  "COMP4961/COMP4962/COMP4963": {
+    "name": "Computer Science Thesis A/B/C",
+    "num": 15
+  },
+  "COMP4161": {
+    "name": "Advanced Verification",
+    "num": 14
+  },
+  "COMP6741": {
+    "name": "Parameterized and Exact Computation",
+    "num": 12
+  },
+  "COMP9596/COMP9945": {
+    "name": "Research Project",
+    "num": 6
+  },
+  "COMP9301": {
+    "name": "Cyber Security Project",
+    "num": 3
+  },
+  "COMP3901": {
+    "name": "Special Project A",
+    "num": 0
+  },
+  "COMP3902": {
+    "name": "Special Project B",
+    "num": 0
+  },
+  "ENGG1000": {
+    "name": "Introduction to Engineering Design and Innovation",
+    "num": 0
+  }
+}

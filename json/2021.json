@@ -1,0 +1,390 @@
+{
+  "COMP1511": {
+    "name": "Programming Fundamentals",
+    "total": 2362
+  },
+  "COMP3121/COMP9101": {
+    "name": "Algorithms and Programming Techniques",
+    "total": 1651
+  },
+  "COMP1521": {
+    "name": "Computer Systems Fundamentals",
+    "total": 1629
+  },
+  "COMP2521": {
+    "name": "Data Structures and Algorithms",
+    "total": 1547
+  },
+  "COMP1531": {
+    "name": "Software Engineering Fundamentals",
+    "total": 1485
+  },
+  "COMP3331/COMP9331": {
+    "name": "Computer Networks and Applications",
+    "total": 1337
+  },
+  "COMP3900/COMP9900": {
+    "name": "Computer Science Project",
+    "total": 1300
+  },
+  "ENGG1000": {
+    "name": "Introduction to Engineering Design and Innovation",
+    "total": 1144
+  },
+  "COMP2511": {
+    "name": "Object-oriented Design and Programming",
+    "total": 1132
+  },
+  "COMP3311": {
+    "name": "Database Systems",
+    "total": 1017
+  },
+  "COMP9444": {
+    "name": "Neural Networks",
+    "total": 910
+  },
+  "COMP9021": {
+    "name": "Principles of Programming",
+    "total": 881
+  },
+  "ENGG1811": {
+    "name": "Computing for Engineers",
+    "total": 864
+  },
+  "COMP9417": {
+    "name": "Machine Learning and Data Mining",
+    "total": 786
+  },
+  "COMP4920/SENG4920": {
+    "name": "Management and Ethics",
+    "total": 715
+  },
+  "COMP9024": {
+    "name": "Data Structures and Algorithms",
+    "total": 711
+  },
+  "COMP9311": {
+    "name": "Database Systems",
+    "total": 694
+  },
+  "DESN2000": {
+    "name": "Engineering Design and Professional Practice",
+    "total": 667
+  },
+  "COMP9517": {
+    "name": "Computer Vision",
+    "total": 646
+  },
+  "COMP6080": {
+    "name": "Web Front-end Programming",
+    "total": 641
+  },
+  "COMP3411/COMP9814": {
+    "name": "Artificial Intelligence",
+    "total": 571
+  },
+  "COMP9020": {
+    "name": "Foundations of Computer Science",
+    "total": 544
+  },
+  "COMP4951/COMP4952/COMP4953/COMP4961/COMP4962/COMP4963Research": {
+    "name": "Thesis A/B/C",
+    "total": 524
+  },
+  "COMP2041/COMP9044": {
+    "name": "Software Construction",
+    "total": 506
+  },
+  "COMP3511/COMP9511": {
+    "name": "Human Computer Interaction",
+    "total": 491
+  },
+  "COMP9414": {
+    "name": "Artificial Intelligence",
+    "total": 437
+  },
+  "COMP3231/COMP3891/COMP9201/COMP9283Operating": {
+    "name": "Systems",
+    "total": 417
+  },
+  "COMP6441/COMP6841": {
+    "name": "Security Engineering and Cyber Security",
+    "total": 417
+  },
+  "GSOE9210": {
+    "name": "Engineering Decisions",
+    "total": 393
+  },
+  "COMP9321": {
+    "name": "Data Services Engineering",
+    "total": 390
+  },
+  "COMP6771": {
+    "name": "Advanced C++ Programming",
+    "total": 389
+  },
+  "COMP9315": {
+    "name": "Database Systems Implementatation",
+    "total": 369
+  },
+  "COMP9318": {
+    "name": "Data Warehousing and Data Mining",
+    "total": 319
+  },
+  "COMP3141": {
+    "name": "Software System Design and Implementation",
+    "total": 297
+  },
+  "COMP3421/COMP9415": {
+    "name": "Computer Graphics",
+    "total": 274
+  },
+  "COMP9313": {
+    "name": "Big Data Management",
+    "total": 252
+  },
+  "DPST1091": {
+    "name": "Introduction to Programming (NSGlobal)",
+    "total": 244
+  },
+  "COMP6714": {
+    "name": "Information Retrieval and Web Search",
+    "total": 227
+  },
+  "DATA1001": {
+    "name": "Introduction to Data Science and Decisions",
+    "total": 211
+  },
+  "SENG2011": {
+    "name": "Workshop on Reasoning about Programs",
+    "total": 205
+  },
+  "COMP1010": {
+    "name": "The Art of Computing",
+    "total": 177
+  },
+  "COMP1911": {
+    "name": "Computing 1A",
+    "total": 175
+  },
+  "SENG2021": {
+    "name": "Requirements and Design Workshop",
+    "total": 159
+  },
+  "COMP9323": {
+    "name": "e-Enterprise Project",
+    "total": 132
+  },
+  "SENG3011": {
+    "name": "Software Engineering Workshop 3",
+    "total": 125
+  },
+  "COMP6443/COMP6843": {
+    "name": "Web Application Security and Testing",
+    "total": 124
+  },
+  "COMP3821/COMP9801": {
+    "name": "Extended Algorithms and Programming Techniques",
+    "total": 119
+  },
+  "COMP9319": {
+    "name": "Web Data Compression and Search",
+    "total": 111
+  },
+  "DPST1092": {
+    "name": "Computer Systems Fundamentals (NSGlobal)",
+    "total": 111
+  },
+  "COMP9418": {
+    "name": "Advanced Machine Learning",
+    "total": 103
+  },
+  "COMP3161/COMP9164": {
+    "name": "Concepts of Programming Languages",
+    "total": 93
+  },
+  "COMP4121": {
+    "name": "Advanced and Parallel Algorithms",
+    "total": 93
+  },
+  "COMP4418": {
+    "name": "Knowledge Representation",
+    "total": 89
+  },
+  "COMP4336/COMP9336": {
+    "name": "Mobile Data Networking",
+    "total": 88
+  },
+  "COMP3431/COMP9434": {
+    "name": "Robotic Software Architecture",
+    "total": 84
+  },
+  "COMP3222/COMP9222": {
+    "name": "Digital Circuits and Systems",
+    "total": 81
+  },
+  "COMP3131/COMP9102": {
+    "name": "Programming Languages and Compilers",
+    "total": 78
+  },
+  "COMP9334": {
+    "name": "Systems Capacity Planning",
+    "total": 76
+  },
+  "COMP3211/COMP9211": {
+    "name": "Computer Architecture",
+    "total": 72
+  },
+  "COMP6452": {
+    "name": "Software Architecture for Blockchain Application",
+    "total": 71
+  },
+  "COMP4337/COMP9337": {
+    "name": "Securing Wireless Networks",
+    "total": 70
+  },
+  "COMP9032": {
+    "name": "Microprocessors and Interfacing",
+    "total": 70
+  },
+  "COMP6447": {
+    "name": "System and Software Security Assessment",
+    "total": 61
+  },
+  "COMP4141": {
+    "name": "Theory of Computation",
+    "total": 58
+  },
+  "COMP6451": {
+    "name": "Cryptocurrency and Distributed Ledger Technologies",
+    "total": 58
+  },
+  "GSOE9220": {
+    "name": "Launching a Startup",
+    "total": 56
+  },
+  "BINF2010": {
+    "name": "Introduction to Bioinformatics",
+    "total": 55
+  },
+  "COMP6445/COMP6845": {
+    "name": "Digital Forensics",
+    "total": 54
+  },
+  "COMP9312": {
+    "name": "Data Analytics for Graphs",
+    "total": 52
+  },
+  "COMP9322": {
+    "name": "Software Service Design and Engineering",
+    "total": 52
+  },
+  "COMP9447": {
+    "name": "Security Engineering Workshop",
+    "total": 52
+  },
+  "COMP3601": {
+    "name": "Design Project A",
+    "total": 49
+  },
+  "COMP4128": {
+    "name": "Programming Challenges",
+    "total": 44
+  },
+  "COMP4511": {
+    "name": "User Interface Design and Construction",
+    "total": 43
+  },
+  "COMP4601": {
+    "name": "Design Project B",
+    "total": 39
+  },
+  "COMP6733": {
+    "name": "Internet of Things Experimental Design Studio",
+    "total": 38
+  },
+  "COMP9991/COMP9992/COMP9993Research": {
+    "name": "Project",
+    "total": 38
+  },
+  "BINF3010/BINF9010": {
+    "name": "Bioinformatics Methods and Applications",
+    "total": 35
+  },
+  "COMP3151/COMP9154": {
+    "name": "Foundations of Concurrency",
+    "total": 34
+  },
+  "COMP9242": {
+    "name": "Advanced Operating Systems",
+    "total": 30
+  },
+  "BINF3020/BINF9020": {
+    "name": "Computational Bioinformatics",
+    "total": 29
+  },
+  "COMP3153/COMP9153": {
+    "name": "Algorithmic Verification",
+    "total": 29
+  },
+  "COMP9491": {
+    "name": "Applied Artificial Intelligence",
+    "total": 28
+  },
+  "COMP2111": {
+    "name": "System Modelling and Design",
+    "total": 21
+  },
+  "COMP6721": {
+    "name": "(In-)Formal Methods - The Lost Art",
+    "total": 20
+  },
+  "COMP4161": {
+    "name": "Advanced Verification",
+    "total": 15
+  },
+  "DATA9001": {
+    "name": "Fundamentals of Data Science",
+    "total": 8
+  },
+  "SENG2991": {
+    "name": "Software Workplace Practice 1",
+    "total": 8
+  },
+  "COMP3901": {
+    "name": "Special Project A",
+    "total": 2
+  },
+  "COMP3902": {
+    "name": "Special Project B",
+    "total": 1
+  },
+  "COMP6448": {
+    "name": "Security Engineering Masterclass",
+    "total": 0
+  },
+  "COMP9301": {
+    "name": "Cyber Security Project",
+    "total": 0
+  },
+  "COMP9302": {
+    "name": "Cyber Security Project B",
+    "total": 0
+  },
+  "DATA3001": {
+    "name": "Data Science and Decisions in Practice",
+    "total": 0
+  },
+  "HSCH1511": {
+    "name": "High School Computing",
+    "total": 0
+  },
+  "HSCH1917": {
+    "name": "High School Computing",
+    "total": 0
+  },
+  "SENG3992": {
+    "name": "Software Workplace Practice 3",
+    "total": 0
+  }
+}

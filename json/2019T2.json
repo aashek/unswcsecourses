@@ -1,0 +1,158 @@
+{
+  "COMP1521": {
+    "name": "Computer Systems Fundamentals",
+    "num": 810
+  },
+  "COMP9417": {
+    "name": "Machine Learning and Data Mining",
+    "num": 671
+  },
+  "COMP1511": {
+    "name": "Programming Fundamentals",
+    "num": 582
+  },
+  "COMP2041/COMP9044": {
+    "name": "Software Construction",
+    "num": 579
+  },
+  "COMP2511": {
+    "name": "Object-oriented Design and Programming",
+    "num": 483
+  },
+  "COMP2521": {
+    "name": "Data Structures and Algorithms",
+    "num": 434
+  },
+  "COMP3331/COMP9331": {
+    "name": "Computer Networks and Applications",
+    "num": 431
+  },
+  "COMP9024": {
+    "name": "Data Structures and Algorithms",
+    "num": 371
+  },
+  "COMP6771": {
+    "name": "Advanced C++ Programming",
+    "num": 362
+  },
+  "COMP6441/COMP6841": {
+    "name": "Security Engineering and Cyber Security",
+    "num": 310
+  },
+  "COMP3141": {
+    "name": "Software System Design and Implementation",
+    "num": 301
+  },
+  "COMP9414/COMP3411": {
+    "name": "Artificial Intelligence",
+    "num": 288
+  },
+  "ENGG1811": {
+    "name": "Computing for Engineers",
+    "num": 261
+  },
+  "DATA1001": {
+    "name": "Introduction to Data Science and Decisions",
+    "num": 250
+  },
+  "COMP9313": {
+    "name": "Big Data Management",
+    "num": 249
+  },
+  "COMP1000": {
+    "name": "Web, Spreadsheets and Databases (obsolete)",
+    "num": 196
+  },
+  "COMP3900/COMP9900": {
+    "name": "Computer Science Project",
+    "num": 168
+  },
+  "COMP9021": {
+    "name": "Principles of Programming",
+    "num": 166
+  },
+  "COMP3821": {
+    "name": "Extended Algorithms and Programming Techniques",
+    "num": 157
+  },
+  "COMP2121": {
+    "name": "Microprocessors and Interfacing",
+    "num": 149
+  },
+  "COMP9517": {
+    "name": "Computer Vision",
+    "num": 128
+  },
+  "COMP3421/COMP9415": {
+    "name": "Computer Graphics",
+    "num": 122
+  },
+  "COMP9311": {
+    "name": "Database Systems",
+    "num": 121
+  },
+  "COMP9319": {
+    "name": "Web Data Compression and Search",
+    "num": 106
+  },
+  "COMP4951/COMP4952/COMP4953": {
+    "name": "Research Thesis A/B/C",
+    "num": 104
+  },
+  "COMP4336/COMP9336": {
+    "name": "Mobile Data Networking",
+    "num": 102
+  },
+  "COMP9322": {
+    "name": "Software Service Design and Engineering",
+    "num": 47
+  },
+  "COMP9242": {
+    "name": "Advanced Operating Systems",
+    "num": 35
+  },
+  "COMP3151/COMP9154": {
+    "name": "Foundations of Concurrency",
+    "num": 31
+  },
+  "COMP9332": {
+    "name": "Network Routing and Switching",
+    "num": 30
+  },
+  "BINF3010/BINF9010": {
+    "name": "Bioinformatics Methods and Applications",
+    "num": 28
+  },
+  "DATA3001": {
+    "name": "Data Science and Decisions in Practice",
+    "num": 28
+  },
+  "COMP6721": {
+    "name": "(In-)Formal Methods - The Lost Art",
+    "num": 18
+  },
+  "COMP6447": {
+    "name": "System and Software Security Assessment",
+    "num": 17
+  },
+  "COMP4961/COMP4962/COMP4963": {
+    "name": "Computer Science Thesis A/B/C",
+    "num": 12
+  },
+  "COMP9596/COMP9945": {
+    "name": "Research Project",
+    "num": 6
+  },
+  "COMP3901": {
+    "name": "Special Project A",
+    "num": 0
+  },
+  "COMP3902": {
+    "name": "Special Project B",
+    "num": 0
+  },
+  "COMP9444": {
+    "name": "Neural Networks",
+    "num": 0
+  }
+}
