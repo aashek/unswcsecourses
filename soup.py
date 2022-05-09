@@ -1,10 +1,21 @@
-import urllib2
-from bs4 import BeautifulSoup
+from gazpacho import Soup
 
-url = "http://dofollow.netsons.org/table1.htm"  # change to whatever your url is
+url = "https://en.wikipedia.org/wiki/List_of_multiple_Olympic_gold_medalists"
+soup = Soup.get(url)
+table = soup.find("table", {"class": "wikitable sortable"}, mode="first")
+# trs = table.find("tr")[1:]
+trs = table.find("tr")[1:]
+print(type(trs))
+print(len(trs))
 
-page = urllib2.urlopen(url).read()
-soup = BeautifulSoup(page)
 
-for i in soup.find_all('form'):
-    print(i.attrs['class'])
+# li = []
+# for tr in trs:
+#     li.append(
+#     {
+#         "name": tr.find("td")[0].text,
+#         "country": tr.find("td")[1].text,
+#         "medals": int(tr.find("td")[-1].text)
+#     }
+#     )
+# print(li[:5], indent=2)

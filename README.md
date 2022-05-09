@@ -1,4 +1,11 @@
 # unswcsecourses
+# currently works for 2020-2022
+
+# current working 
+- 2019 format term to year
+- 2018-2017 webscraping
+- 
+
 
 
 ### Guides Used

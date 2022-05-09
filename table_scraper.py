@@ -71,11 +71,35 @@ def create_json(year):
 	if year >= 2020:
 		create_json_year(year)
 	elif year == 2019:
-		for i in ['T'+str(_) for _ in range(4)]:
-			create_term_json(year, i)
+
+		# for i in ['T'+str(_) for _ in range(4)]:
+		# 	create_term_json(year, i)
+		
+		# create json from terms
+		files = [f for f in os.listdir('json') if re.match(rf'{year}T', f)]
+		cse = {}
+		for i in files:
+			# load json
+			with open('json/'+i) as f:
+				data = json.load(f)
+
+			# add to total if exists
+			# create name if does not exist
+			for k, v in data.items():
+				cse[k] = cse.get(k, {})
+				cse[k]['name'] = cse[k].get('name', v['name'])
+				cse[k]['total'] = cse[k].get('total', 0) + v['num']
+	
+		sortedcse = sorted(cse.items(), key = lambda x: x[1]['total'], reverse=True)
+		with open(f"json/{year}.json", 'w') as fp:
+			json.dump(dict(sortedcse), fp, indent=2)
+
+
 	elif year >= 2002:
 		for i in ['x1', 's1', 's2']:
 			create_term_json(year, i)
+		
+
 	# elif year >= 1999:
 	# 	for i in ['s1', 's2']:
 	# 		create_term_json(year, i)
@@ -83,13 +107,11 @@ def create_json(year):
 # website rarely gets updated, we can static call
 
 ## call by year
-create_json(2022)
-create_json(2021)
-create_json(2020)
+# create_json(2022)
+# create_json(2021)
+# create_json(2020)
 create_json(2019)
-create_json(2018)
-create_json(2017)
-create_json(2016)
+# create_json(2018)
 # call by term (no total)
 # create_json(2015)
 
