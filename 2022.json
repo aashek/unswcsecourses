@@ -1,0 +1,497 @@
+[
+ {
+  "code": "BINF2010",
+  "subj": "Introduction to Bioinformatics",
+  "total": 68
+ },
+ {
+  "code": "BINF3010/BINF9010",
+  "subj": "Bioinformatics Methods and Applications",
+  "total": 35
+ },
+ {
+  "code": "BINF3020/BINF9020",
+  "subj": "Computational Bioinformatics",
+  "total": 32
+ },
+ {
+  "code": "COMP1010",
+  "subj": "The Art of Computing",
+  "total": 167
+ },
+ {
+  "code": "COMP1511",
+  "subj": "Programming Fundamentals",
+  "total": 2585
+ },
+ {
+  "code": "COMP1521",
+  "subj": "Computer Systems Fundamentals",
+  "total": 1760
+ },
+ {
+  "code": "COMP1531",
+  "subj": "Software Engineering Fundamentals",
+  "total": 1862
+ },
+ {
+  "code": "COMP1911",
+  "subj": "Computing 1A",
+  "total": 138
+ },
+ {
+  "code": "COMP2041/COMP9044",
+  "subj": "Software Construction",
+  "total": 816
+ },
+ {
+  "code": "COMP2111",
+  "subj": "System Modelling and Design",
+  "total": 22
+ },
+ {
+  "code": "COMP2511",
+  "subj": "Object-oriented Design and Programming",
+  "total": 1217
+ },
+ {
+  "code": "COMP2521",
+  "subj": "Data Structures and Algorithms",
+  "total": 1780
+ },
+ {
+  "code": "COMP3121/COMP9101",
+  "subj": "Algorithms and Programming Techniques",
+  "total": 1807
+ },
+ {
+  "code": "COMP3131/COMP9102",
+  "subj": "Programming Languages and Compilers",
+  "total": 86
+ },
+ {
+  "code": "COMP3141",
+  "subj": "Software System Design and Implementation",
+  "total": 282
+ },
+ {
+  "code": "COMP3151/COMP9154",
+  "subj": "Foundations of Concurrency",
+  "total": 40
+ },
+ {
+  "code": "COMP3153/COMP9153",
+  "subj": "Algorithmic Verification",
+  "total": 16
+ },
+ {
+  "code": "COMP3161/COMP9164",
+  "subj": "Concepts of Programming Languages",
+  "total": 161
+ },
+ {
+  "code": "COMP3211/COMP9211",
+  "subj": "Computer Architecture",
+  "total": 53
+ },
+ {
+  "code": "COMP3222/COMP9222",
+  "subj": "Digital Circuits and Systems",
+  "total": 124
+ },
+ {
+  "code": "COMP3231/COMP3891/COMP9201/COMP9283",
+  "subj": "Operating Systems",
+  "total": 523
+ },
+ {
+  "code": "COMP3311",
+  "subj": "Database Systems",
+  "total": 1056
+ },
+ {
+  "code": "COMP3331/COMP9331",
+  "subj": "Computer Networks and Applications",
+  "total": 1368
+ },
+ {
+  "code": "COMP3411/COMP9814",
+  "subj": "Artificial Intelligence",
+  "total": 520
+ },
+ {
+  "code": "COMP3421/COMP9415",
+  "subj": "Computer Graphics",
+  "total": 300
+ },
+ {
+  "code": "COMP3431/COMP9434",
+  "subj": "Robotic Software Architecture",
+  "total": 71
+ },
+ {
+  "code": "COMP3511/COMP9511",
+  "subj": "Human Computer Interaction",
+  "total": 332
+ },
+ {
+  "code": "COMP3601",
+  "subj": "Design Project A",
+  "total": 47
+ },
+ {
+  "code": "COMP3821/COMP9801",
+  "subj": "Extended Algorithms and Programming Techniques",
+  "total": 55
+ },
+ {
+  "code": "COMP3900/COMP9900",
+  "subj": "Computer Science Project",
+  "total": 1254
+ },
+ {
+  "code": "COMP3901",
+  "subj": "Special Project A",
+  "total": 4
+ },
+ {
+  "code": "COMP3902",
+  "subj": "Special Project B",
+  "total": 0
+ },
+ {
+  "code": "COMP4121",
+  "subj": "Advanced and Parallel Algorithms",
+  "total": 121
+ },
+ {
+  "code": "COMP4128",
+  "subj": "Programming Challenges",
+  "total": 85
+ },
+ {
+  "code": "COMP4141",
+  "subj": "Theory of Computation",
+  "total": 73
+ },
+ {
+  "code": "COMP4161",
+  "subj": "Advanced Verification",
+  "total": 25
+ },
+ {
+  "code": "COMP4336/COMP9336",
+  "subj": "Mobile Data Networking",
+  "total": 33
+ },
+ {
+  "code": "COMP4337/COMP9337",
+  "subj": "Securing Wireless Networks",
+  "total": 73
+ },
+ {
+  "code": "COMP4418",
+  "subj": "Knowledge Representation",
+  "total": 111
+ },
+ {
+  "code": "COMP4511",
+  "subj": "User Interface Design and Construction",
+  "total": 69
+ },
+ {
+  "code": "COMP4601",
+  "subj": "Design Project B",
+  "total": 39
+ },
+ {
+  "code": "COMP4920/SENG4920",
+  "subj": "Professional Issues and Ethics in Information Technology",
+  "total": 970
+ },
+ {
+  "code": "COMP4951/COMP4952/COMP4953/COMP4961/COMP4962/COMP4963",
+  "subj": "Research Thesis A/B/C",
+  "total": 537
+ },
+ {
+  "code": "COMP6080",
+  "subj": "Web Front-end Programming",
+  "total": 638
+ },
+ {
+  "code": "COMP6441/COMP6841",
+  "subj": "Security Engineering and Cyber Security",
+  "total": 352
+ },
+ {
+  "code": "COMP6443/COMP6843",
+  "subj": "Web Application Security and Testing",
+  "total": 112
+ },
+ {
+  "code": "COMP6445/COMP6845",
+  "subj": "Digital Forensics",
+  "total": 27
+ },
+ {
+  "code": "COMP6447",
+  "subj": "System and Software Security Assessment",
+  "total": 57
+ },
+ {
+  "code": "COMP6448",
+  "subj": "Security Engineering Masterclass",
+  "total": 0
+ },
+ {
+  "code": "COMP6451",
+  "subj": "Cryptocurrency and Distributed Ledger Technologies",
+  "total": 67
+ },
+ {
+  "code": "COMP6452",
+  "subj": "Software Architecture for Blockchain Application",
+  "total": 90
+ },
+ {
+  "code": "COMP6714",
+  "subj": "Information Retrieval and Web Search",
+  "total": 206
+ },
+ {
+  "code": "COMP6721",
+  "subj": "(In-)Formal Methods - The Lost Art",
+  "total": 43
+ },
+ {
+  "code": "COMP6733",
+  "subj": "Internet of Things Experimental Design Studio",
+  "total": 66
+ },
+ {
+  "code": "COMP6741",
+  "subj": "Algorithms for Intractable Problems",
+  "total": 22
+ },
+ {
+  "code": "COMP6771",
+  "subj": "Advanced C++ Programming",
+  "total": 442
+ },
+ {
+  "code": "COMP6991",
+  "subj": "Solving Modern Programming Problems with Rust",
+  "total": 100
+ },
+ {
+  "code": "COMP9020",
+  "subj": "Foundations of Computer Science",
+  "total": 644
+ },
+ {
+  "code": "COMP9021",
+  "subj": "Principles of Programming",
+  "total": 999
+ },
+ {
+  "code": "COMP9024",
+  "subj": "Data Structures and Algorithms",
+  "total": 887
+ },
+ {
+  "code": "COMP9032",
+  "subj": "Microprocessors and Interfacing",
+  "total": 87
+ },
+ {
+  "code": "COMP9242",
+  "subj": "Advanced Operating Systems",
+  "total": 18
+ },
+ {
+  "code": "COMP9301",
+  "subj": "Cyber Security Project",
+  "total": 1
+ },
+ {
+  "code": "COMP9302",
+  "subj": "Cyber Security Project B",
+  "total": 0
+ },
+ {
+  "code": "COMP9311",
+  "subj": "Database Systems",
+  "total": 843
+ },
+ {
+  "code": "COMP9312",
+  "subj": "Data Analytics for Graphs",
+  "total": 57
+ },
+ {
+  "code": "COMP9313",
+  "subj": "Big Data Management",
+  "total": 548
+ },
+ {
+  "code": "COMP9315",
+  "subj": "Database Systems Implementatation",
+  "total": 371
+ },
+ {
+  "code": "COMP9319",
+  "subj": "Web Data Compression and Search",
+  "total": 62
+ },
+ {
+  "code": "COMP9321",
+  "subj": "Data Services Engineering",
+  "total": 472
+ },
+ {
+  "code": "COMP9323",
+  "subj": "e-Enterprise Project",
+  "total": 113
+ },
+ {
+  "code": "COMP9334",
+  "subj": "Systems Capacity Planning",
+  "total": 176
+ },
+ {
+  "code": "COMP9414",
+  "subj": "Artificial Intelligence",
+  "total": 355
+ },
+ {
+  "code": "COMP9417",
+  "subj": "Machine Learning and Data Mining",
+  "total": 655
+ },
+ {
+  "code": "COMP9418",
+  "subj": "Advanced Machine Learning",
+  "total": 78
+ },
+ {
+  "code": "COMP9444",
+  "subj": "Neural Networks",
+  "total": 848
+ },
+ {
+  "code": "COMP9447",
+  "subj": "Security Engineering Workshop",
+  "total": 29
+ },
+ {
+  "code": "COMP9491",
+  "subj": "Applied Artificial Intelligence",
+  "total": 17
+ },
+ {
+  "code": "COMP9517",
+  "subj": "Computer Vision",
+  "total": 720
+ },
+ {
+  "code": "COMP9727",
+  "subj": "Recommender Systems",
+  "total": 44
+ },
+ {
+  "code": "COMP9991/COMP9992/COMP9993",
+  "subj": "Research Project",
+  "total": 31
+ },
+ {
+  "code": "DATA1001",
+  "subj": "Introduction to Data Science and Decisions",
+  "total": 169
+ },
+ {
+  "code": "DATA3001",
+  "subj": "Data Science and Decisions in Practice",
+  "total": 118
+ },
+ {
+  "code": "DATA9001",
+  "subj": "Fundamentals of Data Science",
+  "total": 25
+ },
+ {
+  "code": "DESN1000",
+  "subj": "Introduction to Engineering Design and Innovation",
+  "total": 1519
+ },
+ {
+  "code": "DESN2000",
+  "subj": "Engineering Design and Professional Practice",
+  "total": 641
+ },
+ {
+  "code": "DPST1091",
+  "subj": "Introduction to Programming (NSGlobal)",
+  "total": 264
+ },
+ {
+  "code": "DPST1092",
+  "subj": "Computer Systems Fundamentals (NSGlobal)",
+  "total": 121
+ },
+ {
+  "code": "ENGG1811",
+  "subj": "Computing for Engineers",
+  "total": 824
+ },
+ {
+  "code": "GSOE9210",
+  "subj": "Engineering Decisions",
+  "total": 494
+ },
+ {
+  "code": "GSOE9220",
+  "subj": "Launching a Startup",
+  "total": 95
+ },
+ {
+  "code": "HSCH1511",
+  "subj": "High School Computing",
+  "total": 0
+ },
+ {
+  "code": "HSCH1917",
+  "subj": "High School Computing",
+  "total": 0
+ },
+ {
+  "code": "SENG2011",
+  "subj": "Workshop on Reasoning about Programs",
+  "total": 206
+ },
+ {
+  "code": "SENG2021",
+  "subj": "Requirements and Design Workshop",
+  "total": 150
+ },
+ {
+  "code": "SENG2991",
+  "subj": "Software Workplace Practice 1",
+  "total": 9
+ },
+ {
+  "code": "SENG3011",
+  "subj": "Software Engineering Workshop 3",
+  "total": 116
+ },
+ {
+  "code": "SENG3993",
+  "subj": "Software Workplace Practice 2",
+  "total": 18
+ },
+ {
+  "code": "SENG3994",
+  "subj": "Software Workplace Practice 3",
+  "total": 17
+ }
+]

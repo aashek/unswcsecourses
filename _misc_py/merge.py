@@ -3,13 +3,13 @@
 # merge 2019-2022 so far into one json
 import json, os, re
 
-files = [f for f in os.listdir('json') if re.match(r'\d{4}.json', f)]
+files = [f for f in os.listdir('data') if re.match(r'\d{4}.json', f)]
 
 print(files)
 cse = {}
 for i in files:
     # load json
-    with open('json/'+i) as f:
+    with open('data/'+i) as f:
         data = json.load(f)
 
     # add to total if exists
@@ -38,5 +38,5 @@ sortedcse = sorted(cse.items(), key = lambda x: x[1]['total'], reverse=True)
 #     i += 1
 
 
-# with open(f"json/complete.json", 'w') as fp:
-#     json.dump(dict(sortedcse), fp, indent=2)
+with open(f"data/complete.json", 'w') as fp:
+    json.dump(dict(sortedcse), fp, indent=2)

@@ -3,11 +3,16 @@ import json
 import os
 import re
 
+# 2020-2022 
 # format string
 # 2020 - 2022 : ['code|subj',T0,T1,T2,T3,Total]
 # 1999-2019 : [code, enr, course, person, duty, comment]
 # edge cases
 # 99-01 has no x1
+#
+# updates 13/12/2022
+# works for 2017-2023
+
 
 def get_data(year):
 	year = str(year)
@@ -54,7 +59,7 @@ def create_json_year(year):
 
 def create_term_json(year, tm):
 	df = get_term_data(year, tm)
-	# print(df.head())
+	print(df.head())
 	cse = {}
 	for i in df.iterrows():
 		# 1999-2019 : [code, enr, course, person, duty, comment]
@@ -107,13 +112,16 @@ def create_json(year):
 # website rarely gets updated, we can static call
 
 ## call by year
+# create_json(2023)
 # create_json(2022)
 # create_json(2021)
 # create_json(2020)
-create_json(2019)
+# create_json(2019)
 # create_json(2018)
 # call by term (no total)
 # create_json(2015)
+
+create_json(2016)
 
 # for i in range(1999,2023):
 	# create_json(i)
